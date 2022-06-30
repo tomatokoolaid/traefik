@@ -93,3 +93,7 @@ All available environment variables can be found [here](../reference/static-conf
 All the configuration options are documented in their related section.
 
 You can browse the available features in the menu, the [providers](../providers/overview.md), or the [routing section](../routing/overview.md) to see them in action.
+
+!!! question "Using Traefik for Business Applications?"
+
+    If you're using Traefik for commercial applications, consider the [Enterprise Edition](https://traefik.io/traefik-enterprise/) of Traefik as your [Kubernetes Ingress](https://traefik.io/solutions/kubernetes-ingress/), your [Docker Swarm Load Balancer](https://traefik.io/solutions/docker-swarm-ingress/), or your [API gateway](https://traefik.io/solutions/api-gateway/) to enable access management, distributed Let's Encrypt, and other advanced capabilties. Learn more in [this 15-minute technical walkthrough](https://info.traefik.io/watch-traefikee-demo).
